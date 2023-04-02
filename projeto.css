@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+iframe{
+    display: inline-block;
+    width: 95%;
+    height: 500px;
+}
+
+h3{
+    width: 95%;
+    height: 95%;
+    display: block;
+    padding: 10px;
+    margin-top: 70px;
+    margin-left: 2px;
+    background-color: rgb(56, 151, 151);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.linha{
+    display: block;
+    background-color: black;
+    width: 95%;
+    height: 95%;
+    padding: 5px;
+}
+
+.fixo{
+    width: 95%;
+    height: 95%;
+    display: block;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    background-color: rgb(65, 147, 147);
+    color: white;
+    
+}
+
+.fixo{
+    box-shadow: 5px  10px 10px 5px rgba(119, 148, 148, 0.595);
+    text-align: center;
+}
